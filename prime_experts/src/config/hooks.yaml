@@ -1,0 +1,4 @@
+config:
+  browser:
+    name: Chrome
+    url: http://automationpractice.com/
